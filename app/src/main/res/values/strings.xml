@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SampleRecyclerView</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="adapter_animation">Adapter Anim</string>
+    <string name="item_animation">Item Anim</string>
+</resources>
