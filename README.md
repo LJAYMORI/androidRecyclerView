@@ -8,4 +8,6 @@ http://code.tutsplus.com/tutorials/getting-started-with-recyclerview-and-cardvie
 
 https://github.com/writtmeyer/recyclerviewdemo
 
+https://github.com/wasabeef/recyclerview-animators
+
 Thank you :)
