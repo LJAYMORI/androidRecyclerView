@@ -1,8 +1,5 @@
 package com.ljaymori.samplerecyclerview;
 
-/**
- * Created by iooi on 2015-06-10.
- */
 public class ItemData {
     private int imageId;
     private String title;
